@@ -1,0 +1,13 @@
+/Users/sunaljabili/Documents/homeworkBP202/homeworkBP202/bin/Debug/netcoreapp3.1/homeworkBP202.deps.json
+/Users/sunaljabili/Documents/homeworkBP202/homeworkBP202/bin/Debug/netcoreapp3.1/homeworkBP202.runtimeconfig.json
+/Users/sunaljabili/Documents/homeworkBP202/homeworkBP202/bin/Debug/netcoreapp3.1/homeworkBP202.runtimeconfig.dev.json
+/Users/sunaljabili/Documents/homeworkBP202/homeworkBP202/bin/Debug/netcoreapp3.1/homeworkBP202.dll
+/Users/sunaljabili/Documents/homeworkBP202/homeworkBP202/bin/Debug/netcoreapp3.1/homeworkBP202.pdb
+/Users/sunaljabili/Documents/homeworkBP202/homeworkBP202/obj/Debug/netcoreapp3.1/homeworkBP202.csproj.AssemblyReference.cache
+/Users/sunaljabili/Documents/homeworkBP202/homeworkBP202/obj/Debug/netcoreapp3.1/homeworkBP202.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sunaljabili/Documents/homeworkBP202/homeworkBP202/obj/Debug/netcoreapp3.1/homeworkBP202.AssemblyInfoInputs.cache
+/Users/sunaljabili/Documents/homeworkBP202/homeworkBP202/obj/Debug/netcoreapp3.1/homeworkBP202.AssemblyInfo.cs
+/Users/sunaljabili/Documents/homeworkBP202/homeworkBP202/obj/Debug/netcoreapp3.1/homeworkBP202.csproj.CoreCompileInputs.cache
+/Users/sunaljabili/Documents/homeworkBP202/homeworkBP202/obj/Debug/netcoreapp3.1/homeworkBP202.dll
+/Users/sunaljabili/Documents/homeworkBP202/homeworkBP202/obj/Debug/netcoreapp3.1/homeworkBP202.pdb
+/Users/sunaljabili/Documents/homeworkBP202/homeworkBP202/obj/Debug/netcoreapp3.1/homeworkBP202.genruntimeconfig.cache
